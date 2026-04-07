@@ -1,4 +1,4 @@
-# ti84-calculator-guide
+# TI84-calculator-guide
 # TI-84 Calculator Online Guide for Students (Free Tool)
 
 Many students need a TI-84 calculator for school, but they do not always have one available when they need it. Buying a calculator can also be expensive, especially for students who only use it for homework or practice. A much easier option is to use a free TI-84 calculator online, which works directly in your browser and does not require any download.
