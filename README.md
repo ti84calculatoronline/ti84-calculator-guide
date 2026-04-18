@@ -17,7 +17,7 @@ Another benefit is that it works on both mobile and desktop devices. You can ope
 
 ## How to Use TI-84 Calculator Online
 
-Using an <a href="https://ti84online.com/">TI-84 Calculator Online</a> is simple once you understand the basic steps. First, open the website and you will see a calculator interface that looks similar to a real TI-84. After that, you can start entering numbers or equations using the on-screen buttons.
+Using an <a href="https://ti84online.com/">OnlineTI-84 Calculator</a> is simple once you understand the basic steps. First, open the website and you will see a calculator interface that looks similar to a real TI-84. After that, you can start entering numbers or equations using the on-screen buttons.
 
 When you press enter, the calculator will show your result instantly. If you want to work with graphs, you can switch to graph mode, enter your function, and view the graph directly on your screen. This helps you understand how equations behave in a visual way.
 
